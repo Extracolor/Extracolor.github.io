@@ -1,7 +1,7 @@
- ---
+---
 layout: post
 title: "GDB断点捕获"
-date:   2024-04-15
+date:   2019-11-22
 tags: [GDB]
 comments: true
 author: Gao
