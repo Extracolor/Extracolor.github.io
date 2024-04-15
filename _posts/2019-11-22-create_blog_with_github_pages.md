@@ -1,6 +1,10 @@
----
-layout:default
-title:GDB观察和捕捉断点
+ ---
+layout: post
+title: "GDB断点捕获"
+date:   2024-4-15
+tags: [GDB]
+comments: true
+author: Gao
 ---
 
 GDB 调试器支持在程序中打 3 种断点，分别为普通断点、观察断点和捕捉断点。其中 break 命令打的就是普通断点，而 watch 命令打的为观察断点。catch 命令建立捕捉断点。
